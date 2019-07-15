@@ -1,0 +1,10 @@
+#
+# Editor configuration
+#
+# http://editorconfig.org/
+#
+
+# CMake
+[{CMake*,*.cmake,*.cmake.in}]
+indent_style = space
+indent_size = 4

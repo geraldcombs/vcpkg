@@ -1,0 +1,7 @@
+Built using the follwing steps:
+
+- Created a directory named "wireshark".
+- Copied CMakeLists.txt into "wireshark".
+- Created a build directory.
+- Ran `cmake -G "Visual Studio 15 2017 Win64" ..\wireshark`
+- Ran msbuild wireshark-vcpkg-export.sln
